@@ -52,7 +52,7 @@ import {
   nameFunctions,
 } from '../bns-constants';
 
-import zoneFileParser = require('zone-file');
+import * as zoneFileParser from 'zone-file';
 
 async function handleBurnBlockMessage(
   burnBlockMsg: CoreNodeBurnBlockMessage,
@@ -265,7 +265,7 @@ async function handleClientMessage(
                     parent_zonefile_index: 0, //TODO need to figure out this field
                     block_height: parsedMsg.block_height,
                     zonefile_offset: 1,
-                    resolver: parseResolver(zoneFileContents.uri),
+                    resolver: parseResolver(zoneFileContents.uri ?? []),
                   };
                   dbTx.subdomains.push(subdomain);
                 }
