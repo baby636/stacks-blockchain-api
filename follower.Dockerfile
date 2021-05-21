@@ -10,7 +10,7 @@ RUN npm config set unsafe-perm true && npm install && npm run build && npm prune
 FROM blockstack/stacks-blockchain:2.0.1-stretch as stacks-node-build
 
 ### Begin building base image
-FROM ubuntu:focal
+FROM ubuntu:groovy-20210416
 
 SHELL ["/bin/bash", "-c"]
 
