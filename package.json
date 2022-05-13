@@ -163,7 +163,7 @@
     "eslint-plugin-prettier": "^3.1.2",
     "eslint-plugin-tsdoc": "^0.2.4",
     "gulp": "^4.0.2",
-    "husky": "^4.2.5",
+    "husky": "^4.3.7",
     "jest": "^25.2.1",
     "nodemon": "^2.0.3",
     "npm-api": "^1.0.0",
