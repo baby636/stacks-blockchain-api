@@ -27,7 +27,7 @@ RUN cp -R /src/target/x86_64-unknown-linux-gnu/release/. /stacks
 ### Fetch stacks-node binary
 
 ### Begin building base image
-FROM ubuntu:focal
+FROM ubuntu:20.04
 
 ARG STACKS_NETWORK=testnet
 
