@@ -117,7 +117,7 @@
     "express-winston": "^4.0.3",
     "http-proxy-middleware": "^1.0.6",
     "jsonrpc-lite": "^2.1.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.2.10",
     "node-pg-migrate": "^4.2.3",
     "p-queue": "^6.3.0",
     "path-to-regexp": "^6.2.0",
