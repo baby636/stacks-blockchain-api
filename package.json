@@ -132,7 +132,7 @@
     "ws": "^7.3.0"
   },
   "devDependencies": {
-    "@actions/core": "^1.2.4",
+    "@actions/core": "^1.9.1",
     "@actions/exec": "^1.0.4",
     "@actions/github": "^2.2.0",
     "@actions/io": "^1.0.2",
