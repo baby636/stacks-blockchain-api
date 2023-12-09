@@ -95,7 +95,7 @@
     "@promster/express": "^4.1.12",
     "@promster/server": "^4.2.13",
     "@promster/types": "^1.0.6",
-    "@stacks/network": "^1.0.0-beta.12",
+    "@stacks/network": "^1.0.0",
     "@stacks/transactions": "^1.0.0-beta.12",
     "@types/dockerode": "^2.5.34",
     "@types/express-list-endpoints": "^4.0.1",
