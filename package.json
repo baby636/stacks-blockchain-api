@@ -95,7 +95,7 @@
     "@promster/express": "^4.1.12",
     "@promster/server": "^4.2.13",
     "@promster/types": "^1.0.6",
-    "@stacks/network": "^1.0.0-beta.12",
+    "@stacks/network": "^1.0.0",
     "@stacks/transactions": "^1.0.0-beta.12",
     "@types/dockerode": "^2.5.34",
     "@types/express-list-endpoints": "^4.0.1",
@@ -129,7 +129,7 @@
     "typescript": "^3.9.5",
     "uuid": "^8.0.0",
     "winston": "^3.2.1",
-    "ws": "^7.3.0"
+    "ws": "^8.17.1"
   },
   "devDependencies": {
     "@actions/core": "^1.2.4",
@@ -164,7 +164,7 @@
     "eslint-plugin-tsdoc": "^0.2.4",
     "gulp": "^4.0.2",
     "husky": "^4.2.5",
-    "jest": "^25.2.1",
+    "jest": "^28.0.0",
     "nodemon": "^2.0.3",
     "npm-api": "^1.0.0",
     "prettier": "2.0.2",
