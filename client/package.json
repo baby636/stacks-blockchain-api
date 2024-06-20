@@ -40,7 +40,7 @@
     "cross-fetch": "^3.0.6",
     "eventemitter3": "^4.0.4",
     "jsonrpc-lite": "^2.2.0",
-    "ws": "^7.4.0"
+    "ws": "^7.5.10"
   },
   "devDependencies": {
     "@apidevtools/swagger-cli": "^4.0.4",
