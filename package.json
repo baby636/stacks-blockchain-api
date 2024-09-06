@@ -134,7 +134,7 @@
   "devDependencies": {
     "@actions/core": "^1.2.4",
     "@actions/exec": "^1.0.4",
-    "@actions/github": "^2.2.0",
+    "@actions/github": "^3.0.0",
     "@actions/io": "^1.0.2",
     "@blockstack/eslint-config": "^1.0.5",
     "@blockstack/prettier-config": "0.0.6",
