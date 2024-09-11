@@ -112,7 +112,7 @@
     "cross-env": "^7.0.2",
     "dotenv": "^8.2.0",
     "escape-goat": "^3.0.0",
-    "express": "^4.17.1",
+    "express": "^4.20.0",
     "express-list-endpoints": "^5.0.0",
     "express-winston": "^4.0.3",
     "http-proxy-middleware": "^1.0.6",
@@ -134,7 +134,7 @@
   "devDependencies": {
     "@actions/core": "^1.2.4",
     "@actions/exec": "^1.0.4",
-    "@actions/github": "^2.2.0",
+    "@actions/github": "^3.0.0",
     "@actions/io": "^1.0.2",
     "@blockstack/eslint-config": "^1.0.5",
     "@blockstack/prettier-config": "0.0.6",
