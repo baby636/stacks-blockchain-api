@@ -29,7 +29,7 @@
     "@types/json-schema-merge-allof": "^0.6.0",
     "ajv": "^6.12.2",
     "chalk": "^4.0.0",
-    "del": "^5.1.0",
+    "del": "^8.0.0",
     "glob": "^7.1.6",
     "gulp": "^4.0.2",
     "gulp-gh-pages": "^0.6.0-6",
